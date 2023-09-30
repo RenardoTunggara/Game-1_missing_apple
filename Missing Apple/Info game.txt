@@ -1,0 +1,13 @@
+Title: Missing Apple
+Member :
+Renardo Tunggara - 2540128966
+
+how to play:
+- A dan D untuk bergerak ke kiri dan kekanan dan sepasi untuk melompat.
+- Tombol restart di pojok kiri atas di bawah score untuk merestart game.
+- tombol esc untuk exit.
+
+Deskripsi:
+Mengendalikan stickman untuk menaambil semua apple yang ada untuk menangkan gamenya,
+apabila stickman jatuh atau hilang dari map tekan tombol restart untuk mengulang.
+
